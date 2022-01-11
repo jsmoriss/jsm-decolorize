@@ -38,7 +38,10 @@ if ( ! class_exists( 'JsmDecolorize' ) ) {
 
 		public function __construct() {
 
-			add_action( 'admin_enqueue_scripts', array( __CLASS__, 'admin_menu_inline_style' ) );
+			if ( is_admin() ) {
+
+				add_action( 'admin_enqueue_scripts', array( __CLASS__, 'admin_menu_inline_style' ) );
+			}
 		}
 
 		public static function &get_instance() {
