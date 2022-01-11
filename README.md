@@ -17,13 +17,3 @@
 <p>A simple plugin to decolorize the colorful admin menu icons added by some plugins like NextGEN Gallery, Perfect Images, Wordfence Security, and many more.</p>
 
 
-<h2>Installation</h2>
-
-
-
-
-<h2>Frequently Asked Questions</h2>
-
-
-
-
