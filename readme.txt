@@ -1,12 +1,12 @@
-=== JSM Decolorize ===
-Plugin Name: JSM Decolorize
+=== JSM's Decolorize Menu Icons ===
+Plugin Name: JSM's Decolorize Menu Icons
 Plugin Slug: jsm-decolorize
 Text Domain: jsm-decolorize
 Domain Path: /languages
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl.txt
 Assets URI: https://jsmoriss.github.io/jsm-decolorize/assets/
-Tags: plugin, icon, color, menu, admin
+Tags: icon, color, menu, admin, grayscale
 Contributors: jsmoriss
 Requires PHP: 7.2
 Requires At Least: 5.2
