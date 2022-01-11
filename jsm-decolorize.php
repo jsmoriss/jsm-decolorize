@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: JSM Decolorize
+ * Plugin Name: JSM's Decolorize Menu Icons
  * Text Domain: jsm-decolorize
  * Domain Path: /languages
  * Plugin URI: https://surniaulula.com/extend/plugins/jsm-decolorize/
