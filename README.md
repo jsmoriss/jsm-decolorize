@@ -14,7 +14,7 @@
 
 <h2>Description</h2>
 
-<p>A simple plugin to decolorize the colorful admin menu icons added by some plugins like NextGEN Gallery, Perfect Images, Wordfence Security, and many more.</p>
+<p>A simple plugin to decolorize the colorful admin menu icons added by some plugins like NextGEN Gallery, Meow Apps / Perfect Images, Wordfence Security, and many more.</p>
 
 <p>No setup required - simply activate the plugin to decolorize the admin menu icons.</p>
 
