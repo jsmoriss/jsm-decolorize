@@ -1,5 +1,5 @@
 <?php
-/**
+/*
  * Plugin Name: JSM's Decolorize Menu Icons
  * Text Domain: jsm-decolorize
  * Domain Path: /languages
