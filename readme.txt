@@ -9,7 +9,7 @@ Assets URI: https://jsmoriss.github.io/jsm-decolorize/assets/
 Tags: icon, color, menu, admin, grayscale
 Contributors: jsmoriss
 Requires PHP: 7.2
-Requires At Least: 5.4
+Requires At Least: 5.5
 Tested Up To: 6.2.0
 Stable Tag: 1.0.0
 
