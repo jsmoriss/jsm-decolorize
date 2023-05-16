@@ -1,8 +1,8 @@
-# Copyright (C) 2023 JSM's Decolorize Menu Icons
-# This file is distributed under the same license as the JSM's Decolorize Menu Icons package.
+# Copyright (C) 2023 JSM Decolorize Menu Icons
+# This file is distributed under the same license as the JSM Decolorize Menu Icons package.
 msgid ""
 msgstr ""
-"Project-Id-Version: JSM's Decolorize Menu Icons 1.0.0\n"
+"Project-Id-Version: JSM Decolorize Menu Icons 1.0.0\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/jsm-decolorize\n"
 "POT-Creation-Date: 2023-MO-DA HO:MI+ZONE\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Language-Team: LANGUAGE <LL@li.org>\n"
 
 #. Plugin Name of the plugin/theme
-msgid "JSM's Decolorize Menu Icons"
+msgid "JSM Decolorize Menu Icons"
 msgstr ""
 
 #. Plugin URI of the plugin/theme
