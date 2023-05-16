@@ -1,7 +1,7 @@
-<h1>JSM&#039;s Decolorize Menu Icons</h1>
+<h1>JSM Decolorize Menu Icons</h1>
 
 <table>
-<tr><th align="right" valign="top" nowrap>Plugin Name</th><td>JSM&#039;s Decolorize Menu Icons</td></tr>
+<tr><th align="right" valign="top" nowrap>Plugin Name</th><td>JSM Decolorize Menu Icons</td></tr>
 <tr><th align="right" valign="top" nowrap>Summary</th><td>A simple plugin to decolorize the colorful admin menu icons added by some plugins.</td></tr>
 <tr><th align="right" valign="top" nowrap>Stable Version</th><td>1.0.0</td></tr>
 <tr><th align="right" valign="top" nowrap>Requires PHP</th><td>7.2.5 or newer</td></tr>

@@ -1,5 +1,5 @@
-=== JSM's Decolorize Menu Icons ===
-Plugin Name: JSM's Decolorize Menu Icons
+=== JSM Decolorize Menu Icons ===
+Plugin Name: JSM Decolorize Menu Icons
 Plugin Slug: jsm-decolorize
 Text Domain: jsm-decolorize
 Domain Path: /languages
