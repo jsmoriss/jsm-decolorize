@@ -10,7 +10,7 @@ Tags: icon, color, menu, admin, grayscale
 Contributors: jsmoriss
 Requires PHP: 7.2.34
 Requires At Least: 5.5
-Tested Up To: 6.3.2
+Tested Up To: 6.4.0
 Stable Tag: 1.0.0
 
 A simple plugin to decolorize the colorful admin menu icons added by some plugins.
