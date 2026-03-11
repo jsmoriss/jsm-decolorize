@@ -12,7 +12,7 @@
  * Description: A simple plugin to decolorize the colorful admin menu icons added by some plugins.
  * Requires PHP: 7.4.33
  * Requires At Least: 6.0
- * Tested Up To: 6.9.2
+ * Tested Up To: 6.9.4
  * Version: 1.0.0
  *
  * Version Numbering: {major}.{minor}.{bugfix}[-{stage}.{level}]
