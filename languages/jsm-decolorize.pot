@@ -12,6 +12,7 @@ msgstr ""
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 
+
 #. Plugin Name of the plugin/theme
 msgid "JSM Decolorize Menu Icons"
 msgstr ""
@@ -21,9 +22,7 @@ msgid "https://surniaulula.com/extend/plugins/jsm-decolorize/"
 msgstr ""
 
 #. Description of the plugin/theme
-msgid ""
-"A simple plugin to decolorize the colorful admin menu icons added by some "
-"plugins."
+msgid "A simple plugin to decolorize the colorful admin menu icons added by some plugins."
 msgstr ""
 
 #. Author of the plugin/theme
